@@ -1,9 +1,9 @@
 #!/bin/bash
-LOCKDIR=/Users/elliott/.local/share/screenrecord
-LOCKFILE=/Users/elliott/.local/share/screenrecord/record.lock
-PROCESS_LOCKFILE=/Users/elliott/.local/share/screenrecord/process.lock
-DIR=/Users/elliott/Movies/Screencast
-RAWDIR=/Users/elliott/Movies/Screencast/raw
+LOCKDIR=/Users/cleitonmouralourat/.local/share/screenrecord
+LOCKFILE=/Users/cleitonmouralourat/.local/share/screenrecord/record.lock
+PROCESS_LOCKFILE=/Users/cleitonmouralourat/.local/share/screenrecord/process.lock
+DIR=/Users/cleitonmouralourat/Movies/Screencast
+RAWDIR=/Users/cleitonmouralourat/Movies/Screencast/raw
 
 mkdir -p $LOCKDIR/log
 mkdir -p $RAWDIR

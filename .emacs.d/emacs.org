@@ -1,4 +1,4 @@
-#+title: Elliott Minns' emacs configuration
+#+title: Cleiton Moura' emacs configuration
 #+PROPERTY: header-args:emacs-lisp :tangle ./init.el
 
 * Welcome!

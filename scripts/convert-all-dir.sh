@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-FILEDIR=/Users/elliott/Movies/Screencast
+FILEDIR=/Users/cleitonmouralourat/Movies/Screencast
 
 pushd $FILEDIR
 

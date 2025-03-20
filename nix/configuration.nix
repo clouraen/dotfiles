@@ -108,7 +108,7 @@ in {
   ];
 
   # Define a user account. Don't forget to set a password with ‘passwd’.
-  users.users.elliott = {
+  users.users.cleitonmouralourat = {
     isNormalUser = true;
     extraGroups = [
       "wheel" # Enable ‘sudo’ for the user.

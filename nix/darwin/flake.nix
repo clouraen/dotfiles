@@ -29,7 +29,7 @@
         system = "aarch64-darwin";
       };
     };
-    username = "elliott";
+    username = "cleitonmouralourat";
     configuration = {
       pkgs,
       lib,
@@ -80,9 +80,9 @@
           pkgs.zoxide
         ];
 
-      users.users.elliott = {
+      users.users.cleitonmouralourat = {
         name = username;
-        home = "/Users/elliott";
+        home = "/Users/cleitonmouralourat";
       };
 
       homebrew = {
@@ -171,7 +171,7 @@
           # `home-manager` config
           home-manager.useGlobalPkgs = true;
           home-manager.useUserPackages = true;
-          home-manager.users.elliott = import ./home.nix;
+          home-manager.users.cleitonmouralourat = import ./home.nix;
         }
       ];
     };

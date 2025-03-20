@@ -49,7 +49,7 @@ fi
 
 alias gpg-unlock="gpg-connect-agent updatestartuptty /bye"
 
-[ -s "/home/elliott/.svm/svm.sh" ] && source "/home/elliott/.svm/svm.sh"
+[ -s "/home/cleitonmouraloura/.svm/svm.sh" ] && source "/home/cleitonmouraloura/.svm/svm.sh"
 
 export RIPGREP_CONFIG_PATH="$HOME/.ripgreprc"
 alias protonmail-bridge='PASSWORD_STORE_DIR="$HOME/.local/share/pass" protonmail-bridge'

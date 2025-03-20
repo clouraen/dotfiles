@@ -207,7 +207,7 @@ bar {
 }
 
 # exec_always --no-startup-id sh $HOME/.config/polybar/launch.sh
-exec feh --bg-scale "/home/elliott/Pictures/wallpapers/minimalistic/dark-cat-rosewater.png"
+exec feh --bg-scale "/home/cleitonmouralourat/Pictures/wallpapers/minimalistic/dark-cat-rosewater.png"
 exec --no-startup-id compton
 
 

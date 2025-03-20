@@ -10,7 +10,7 @@ xhost +SI:localuser:$USER
 export _JAVA_AWT_WM_NONREPARENTING=1
 
 # Start Shepherd to manage user daemons
-if [ -z "$(pgrep -u elliott shepherd)" ]; then
+if [ -z "$(pgrep -u cleitonmouralourat shepherd)" ]; then
   shepherd
 fi
 
